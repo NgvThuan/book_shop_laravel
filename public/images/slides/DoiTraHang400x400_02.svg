@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <g id="Group_4791" data-name="Group 4791" transform="translate(-1712 -6078)">
+    <rect id="Rectangle_1526" data-name="Rectangle 1526" width="400" height="400" transform="translate(1712 6078)" fill="#fff"/>
+    <g id="Rectangle_1528" data-name="Rectangle 1528" transform="translate(1727 6093)" fill="#fff" stroke="#ee3b2b" stroke-width="2">
+      <rect width="370" height="370" rx="22" stroke="none"/>
+      <rect x="1" y="1" width="368" height="368" rx="21" fill="none"/>
+    </g>
+    <text id="Xác_nhận_đăng_ký_đổi_trả_" data-name="Xác nhận đăng ký đổi/trả " transform="translate(1912 6360)" fill="#ff6d6d" font-size="18" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="-134.046" y="0">XÁC NHẬN ĐĂNG KÝ ĐỔI/TRẢ </tspan></text>
+    <text id="Fahasa_tiếp_nhận_thông_tin_xác_nhận_qua_hotline_tin_nhắn_hoặc_email_hướng_dẫn_đổi_trả_và_gửi_đến_khách_hàng_ngay_sau_khi_nhận_được_thông_tin_đăng_ký_đổi_trả_từ_khách_hàng." data-name="Fahasa tiếp nhận thông tin, xác nhận qua hotline, tin
+nhắn hoặc email hướng dẫn đổi/trả và gửi đến khách
+hàng ngay sau khi nhận được thông tin đăng ký đổi/trả
+từ khách hàng." transform="translate(1912 6387)" fill="#464a4c" font-size="14" font-family="Nunito-Regular, Nunito"><tspan x="-162.561" y="0">Fahasa tiếp nhận thông tin, xác nhận qua hotline, tin</tspan><tspan x="-162.428" y="19">nhắn hoặc email hướng dẫn đổi/trả và gửi đến khách</tspan><tspan x="-169.498" y="38">hàng ngay sau khi nhận được thông tin đăng ký đổi/trả</tspan><tspan x="-45.899" y="57">từ khách hàng.</tspan></text>
+    <g id="Group_4788" data-name="Group 4788" transform="translate(1312 6077)">
+      <g id="Rectangle_1523" data-name="Rectangle 1523" transform="translate(526 56)" fill="#ff6d6d" stroke="#ff6d6d" stroke-width="3">
+        <rect width="148" height="174" rx="8" stroke="none"/>
+        <rect x="1.5" y="1.5" width="145" height="171" rx="6.5" fill="none"/>
+      </g>
+      <g id="Rectangle_1524" data-name="Rectangle 1524" transform="translate(540 71)" fill="#fff" stroke="#ff6d6d" stroke-width="3">
+        <rect width="120" height="126" stroke="none"/>
+        <rect x="1.5" y="1.5" width="117" height="123" fill="none"/>
+      </g>
+      <circle id="Ellipse_963" data-name="Ellipse 963" cx="11" cy="11" r="11" transform="translate(589 202)" fill="#fff"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(1924.833 6123.391)">
+      <g id="_34" data-name="34">
+        <path id="Path_16427" data-name="Path 16427" d="M28.281,54.812H73.42c5.493,0,10.564-3.305,10.564-7.923V9.372C83.984,4.754,78.943,0,73.42,0H11.7C6.354,0,0,4.754,0,9.372V46.889c0,4.18,5.342,7.35,10.564,7.787L7.244,67.217Z" fill="#6ec2fb" fill-rule="evenodd"/>
+        <path id="Path_16428" data-name="Path 16428" d="M19.247,13.57h0a6.037,6.037,0,1,1-6.037,6.037A6.037,6.037,0,0,1,19.247,13.57Z" transform="translate(6.726 6.909)" fill="#f7f9fa" fill-rule="evenodd"/>
+        <path id="Path_16429" data-name="Path 16429" d="M31.037,13.57h0A6.037,6.037,0,1,1,25,19.607,6.037,6.037,0,0,1,31.037,13.57Z" transform="translate(12.729 6.909)" fill="#f7f9fa" fill-rule="evenodd"/>
+        <path id="Path_16430" data-name="Path 16430" d="M42.153,13.57h0a6.2,6.2,0,0,1,6.037,6.037,6.142,6.142,0,0,1-12.269,0,6.218,6.218,0,0,1,6.2-6.037Z" transform="translate(18.289 6.909)" fill="#f7f9fa" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
