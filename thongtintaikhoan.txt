@@ -1,0 +1,4 @@
+bookshop.abc
+http://bookshop.abc/admin-auth/login
+Admin : admin@gmail.com
+MK : 1
